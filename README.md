@@ -26,9 +26,9 @@ Este proyecto implementa un modelo de esquema corporal para robots que aprende l
 - scipy
 - pillow
 
+## Extra
+https://drive.google.com/drive/folders/16gjjQ4kCKqB7PI-cQBm7ckIVhSC4J1dv?usp=sharing
+
 ## Cómo ejecutar
 ```bash
 python run_experiments.py
-
-## Extra
-https://drive.google.com/drive/folders/16gjjQ4kCKqB7PI-cQBm7ckIVhSC4J1dv?usp=sharing
